@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file
+*.ini
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Output directories
+__pycache__/
+build/
+dist/
+
+# Virtual environment
+venv/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Environment variables file
+.env
+
+# Test files
+test.txt
